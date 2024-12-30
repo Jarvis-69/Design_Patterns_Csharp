@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joris\\C-Sharp\\ConsoleProject\\ConsoleProject.csproj",
-      "projectName": "ConsoleProject",
-      "projectPath": "C:\\Users\\joris\\C-Sharp\\ConsoleProject\\ConsoleProject.csproj",
+      "projectUniqueName": "C:\\Users\\joris\\C-Sharp\\AbstractFactory\\AbstractFactory.csproj",
+      "projectName": "AbstractFactory",
+      "projectPath": "C:\\Users\\joris\\C-Sharp\\AbstractFactory\\AbstractFactory.csproj",
       "packagesPath": "C:\\Users\\joris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joris\\C-Sharp\\ConsoleProject\\obj\\",
+      "outputPath": "C:\\Users\\joris\\C-Sharp\\AbstractFactory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joris\\AppData\\Roaming\\NuGet\\NuGet.Config"
