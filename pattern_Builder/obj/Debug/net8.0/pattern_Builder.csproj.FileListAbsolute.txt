@@ -1,0 +1,5 @@
+C:\Users\joris\C-Sharp\pattern_Builder\obj\Debug\net8.0\pattern_Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\C-Sharp\pattern_Builder\obj\Debug\net8.0\pattern_Builder.AssemblyInfoInputs.cache
+C:\Users\joris\C-Sharp\pattern_Builder\obj\Debug\net8.0\pattern_Builder.AssemblyInfo.cs
+C:\Users\joris\C-Sharp\pattern_Builder\obj\Debug\net8.0\pattern_Builder.csproj.CoreCompileInputs.cache
+C:\Users\joris\C-Sharp\pattern_Builder\obj\Debug\net8.0\pattern_Builder.sourcelink.json
