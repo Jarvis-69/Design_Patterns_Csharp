@@ -1,21 +1,19 @@
-public class LiassePdf : Liasse
-{
-    private IList<string> contenu = new List<string>();
+using System;
 
+namespace Builder;
+
+public class LiasseHtml : Liasse
+{
     public override void ajouteDocument(string document)
     {
-        if (document.StartsWith("<PDF>"))
-        {
+        if (document.StartsWith("<HTML>"))
             contenu.Add(document);
-        }
     }
 
     public override void imprime()
     {
-        Console.WriteLine("Liasse PDF");
+        Console.WriteLine("Liasse HTML");
         foreach (string s in contenu)
-        {
             Console.WriteLine(s);
-        }
     }
 }

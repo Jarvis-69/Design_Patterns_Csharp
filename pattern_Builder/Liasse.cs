@@ -1,15 +1,8 @@
-public class LiasseDocument
-{
-    public void ajouteDocument(string document)
-    {
-        contenu.Add(document);
-    }
+namespace Builder;
 
-    public void imprime()
-    {
-        foreach (string s in contenu)
-        {
-            Console.WriteLine(s);
-        }
-    }
+public class Liasse
+{
+    protected IList<string> contenu = new List<string>();
+    public abstract void ajouteDocument(string document);
+    public abstract void imprime();
 }

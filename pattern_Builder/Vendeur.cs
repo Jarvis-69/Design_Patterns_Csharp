@@ -1,9 +1,20 @@
+namespace Builder;
+
 public class Vendeur
 {
-    public LiasseDocument construit(string nomClient)
+    protected ConstructeurLiasseVehicule _constructeur;
+
+    public Vendeur(ConstructeurLiasseVehicule constructeur)
     {
-        constructeur.construitBonDeCommande(nomClient);
-        constructeur.construitDemandeImmatriculation(nomClient);
-        return constructeur.resultat();
+        this._constructeur = constructeur;
+        // Or _constructeur = constructeur;
+    }
+
+    public Liasse construit(string nomClient)
+    {
+        _constructeur.construitBonDeCommande(nomClient);
+        _constructeur.construitDemandeImmatriculation(nomDemandeur);
+        Liasse liasse = _constructeur.resultat();
+        return liasse;
     }
 }

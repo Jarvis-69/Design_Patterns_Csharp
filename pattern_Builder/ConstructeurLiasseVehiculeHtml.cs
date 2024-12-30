@@ -1,8 +1,19 @@
 using System;
 
+namespace Builder;
+
 public class ConstructeurLiasseVehiculeHtml : ConstructeurLiasseVehicule
 {
-    public void construitBonDeCommande(string nomClient);
-    public void construitDemandeImmatriculation(string nomDemandeur);
-    public LiasseDocument resultat();
+    public override void construitBonDeCommande(string nomClient)
+    {
+        string document;
+        document = "<HTML>Bon de commande Client : " + nomClient + "</HTML>";
+        liasse.ajouteDocument(document);
+    }
+    public void construitDemandeImmatriculation(string nomDemandeur)
+    {
+        string document;
+        document = "<HTML>Demande d'immatriculation Demandeur : " + nomDemandeur + "</HTML>";
+        liasse.ajouteDocument(document);
+    }
 }
