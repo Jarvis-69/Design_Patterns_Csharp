@@ -10,9 +10,8 @@ public class Catalogue
     FabriqueVehicule fabrique;
     Automobile[] autos = new Automobile[nbAutos];
     Scooter[] scooters = new Scooter[nbScooters];
-    Console.WriteLine("Voulez-vous utiliser " +
-      "des véhicules électriques (1) ou à essence (2) :");
-    string choix = Console.ReadLine();
+    Console.WriteLine("Voulez-vous utiliser des vÃ©hicules Ã©lectriques (1) ou Ã  essence (2) :");
+    string choix = Console.ReadLine() ?? string.Empty;
     if (choix == "1")
     {
       fabrique = new FabriqueVehiculeElectricite();
@@ -32,5 +31,4 @@ public class Catalogue
     foreach (Scooter scooter in scooters)
       scooter.afficheCaracteristiques();
   }
-
 }
