@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joris\\C-Sharp\\AbstractFactory\\AbstractFactory.csproj": {}
+    "c:\\Users\\joris\\C-Sharp\\AbstractFactory\\AbstractFactory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joris\\C-Sharp\\AbstractFactory\\AbstractFactory.csproj": {
+    "c:\\Users\\joris\\C-Sharp\\AbstractFactory\\AbstractFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joris\\C-Sharp\\AbstractFactory\\AbstractFactory.csproj",
+        "projectUniqueName": "c:\\Users\\joris\\C-Sharp\\AbstractFactory\\AbstractFactory.csproj",
         "projectName": "AbstractFactory",
-        "projectPath": "C:\\Users\\joris\\C-Sharp\\AbstractFactory\\AbstractFactory.csproj",
+        "projectPath": "c:\\Users\\joris\\C-Sharp\\AbstractFactory\\AbstractFactory.csproj",
         "packagesPath": "C:\\Users\\joris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joris\\C-Sharp\\AbstractFactory\\obj\\",
+        "outputPath": "c:\\Users\\joris\\C-Sharp\\AbstractFactory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joris\\AppData\\Roaming\\NuGet\\NuGet.Config"

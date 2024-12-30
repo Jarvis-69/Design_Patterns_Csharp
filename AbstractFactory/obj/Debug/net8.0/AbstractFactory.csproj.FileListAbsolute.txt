@@ -13,3 +13,8 @@ C:\Users\joris\C-Sharp\AbstractFactory\obj\Debug\net8.0\refint\AbstractFactory.d
 C:\Users\joris\C-Sharp\AbstractFactory\obj\Debug\net8.0\AbstractFactory.pdb
 C:\Users\joris\C-Sharp\AbstractFactory\obj\Debug\net8.0\AbstractFactory.genruntimeconfig.cache
 C:\Users\joris\C-Sharp\AbstractFactory\obj\Debug\net8.0\ref\AbstractFactory.dll
+c:\Users\joris\C-Sharp\AbstractFactory\bin\Debug\net8.0\AbstractFactory.exe
+c:\Users\joris\C-Sharp\AbstractFactory\bin\Debug\net8.0\AbstractFactory.deps.json
+c:\Users\joris\C-Sharp\AbstractFactory\bin\Debug\net8.0\AbstractFactory.runtimeconfig.json
+c:\Users\joris\C-Sharp\AbstractFactory\bin\Debug\net8.0\AbstractFactory.dll
+c:\Users\joris\C-Sharp\AbstractFactory\bin\Debug\net8.0\AbstractFactory.pdb
