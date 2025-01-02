@@ -1,0 +1,15 @@
+C:\Users\joris\C-Sharp\Entrainement_Exam2\obj\Debug\net8.0\Entrainement_Exam2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\C-Sharp\Entrainement_Exam2\obj\Debug\net8.0\Entrainement_Exam2.AssemblyInfoInputs.cache
+C:\Users\joris\C-Sharp\Entrainement_Exam2\obj\Debug\net8.0\Entrainement_Exam2.AssemblyInfo.cs
+C:\Users\joris\C-Sharp\Entrainement_Exam2\obj\Debug\net8.0\Entrainement_Exam2.csproj.CoreCompileInputs.cache
+C:\Users\joris\C-Sharp\Entrainement_Exam2\obj\Debug\net8.0\Entrainement_Exam2.sourcelink.json
+C:\Users\joris\C-Sharp\Entrainement_Exam2\build\Entrainement_Exam2.exe
+C:\Users\joris\C-Sharp\Entrainement_Exam2\build\Entrainement_Exam2.deps.json
+C:\Users\joris\C-Sharp\Entrainement_Exam2\build\Entrainement_Exam2.runtimeconfig.json
+C:\Users\joris\C-Sharp\Entrainement_Exam2\build\Entrainement_Exam2.dll
+C:\Users\joris\C-Sharp\Entrainement_Exam2\build\Entrainement_Exam2.pdb
+C:\Users\joris\C-Sharp\Entrainement_Exam2\obj\Debug\net8.0\Entrainement_Exam2.dll
+C:\Users\joris\C-Sharp\Entrainement_Exam2\obj\Debug\net8.0\refint\Entrainement_Exam2.dll
+C:\Users\joris\C-Sharp\Entrainement_Exam2\obj\Debug\net8.0\Entrainement_Exam2.pdb
+C:\Users\joris\C-Sharp\Entrainement_Exam2\obj\Debug\net8.0\Entrainement_Exam2.genruntimeconfig.cache
+C:\Users\joris\C-Sharp\Entrainement_Exam2\obj\Debug\net8.0\ref\Entrainement_Exam2.dll
