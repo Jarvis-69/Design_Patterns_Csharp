@@ -14,7 +14,7 @@ class Program
         if (choix == "2")
         {
             Document AssAuto = new AssAuto();
-            AssAuto.affiche();
+            AssAuto.affiche("TOTO2");
         }
         if (choix == "3")
         {
