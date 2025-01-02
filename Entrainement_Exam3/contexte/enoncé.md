@@ -19,6 +19,7 @@ Questions :
    - Séparer les types de notifications de leurs implémentations
    - Permettre l'évolution indépendante des deux aspects
    - Éviter l'explosion combinatoire des classes
+   
 3. Modélisez la solution à l'aide d'un diagramme de classes UML qui permettra de :
 
    - Découpler les types de notifications des méthodes d'envoi
