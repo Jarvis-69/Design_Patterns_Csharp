@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joris\\C-Sharp\\ChainOfResponsability\\ChainOfResponsability2.csproj",
-      "projectName": "ChainOfResponsability2",
-      "projectPath": "C:\\Users\\joris\\C-Sharp\\ChainOfResponsability\\ChainOfResponsability2.csproj",
+      "projectUniqueName": "C:\\Users\\joris\\C-Sharp\\Command\\Command.csproj",
+      "projectName": "Command",
+      "projectPath": "C:\\Users\\joris\\C-Sharp\\Command\\Command.csproj",
       "packagesPath": "C:\\Users\\joris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joris\\C-Sharp\\ChainOfResponsability\\obj\\",
+      "outputPath": "C:\\Users\\joris\\C-Sharp\\Command\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joris\\AppData\\Roaming\\NuGet\\NuGet.Config"
