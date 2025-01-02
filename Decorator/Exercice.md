@@ -18,3 +18,50 @@ Ce qu'il fait rajouter 0,5€ au prix du café et qui rajoute "lait" dans la des
 ou ici, cela rajoute 0,2€ au prix et rajoute "sucre" dans la description
 
 - L'utilisation à la fin simule un café avec le lait et le sucre
+
+# ChatGPT 
+         ┌─────────────────────┐
+         │     <<interface>>   │
+         │        ICafe        │
+         ├─────────────────────┤
+         │ + GetCost(): double │
+         │ + GetDescription(): │
+         │       string        │
+         └─────────────────────┘
+                   ▲     
+                   │    
+                   │     
+                   │     
+        ┌────────────────────────┐
+        │       CafeSimple       │
+        ├────────────────────────┤
+        │ + GetCost(): double    │
+        │ + GetDescription():    │
+        │       string           │
+        └────────────────────────┘
+                   ▲
+                   │
+                   │
+      ┌───────────────────────────┐
+      │      <<abstract>>         │
+      │       CafeDecorator       │
+      ├───────────────────────────┤
+      │ - cafe : ICafe            │
+      ├───────────────────────────┤
+      │ + CafeDecorator(ICafe)    │
+      │ + GetCost(): double       │
+      │ + GetDescription(): string│
+      └───────────────────────────┘
+                ▲            ▲
+                │            │
+                │            │ 
+                │            │
+ ┌───────────────────┐   ┌───────────────────┐
+ │       Lait        │   │       Sucre       │
+ ├───────────────────┤   ├───────────────────┤
+ │ + Lait(ICafe)     │   │ + Sucre(ICafe)    │
+ │ + GetCost():      │   │ + GetCost():      │
+ │        double     │   │        double     │
+ │ + GetDescription():   │ + GetDescription():
+ │          string   │   │          string   │
+ └───────────────────┘   └───────────────────┘
