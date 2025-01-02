@@ -13,7 +13,7 @@ public abstract class Automobile
     this.modele = modele;
     this.couleur = couleur;
     this.puissance = puissance;
-    this.espace = espace;
+    this.espace = espace; 
   }
 
   public abstract void afficheCaracteristiques();
